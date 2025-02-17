@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002">
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002 modification">
+      <change afterPath="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb2025/16Feb2025/Lab_0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feb2025/16Feb2025/Lab_0002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
   "keyToString": {
     "Python.Lab_0001.executor": "Run",
     "Python.Lab_0002.executor": "Run",
+    "Python.Lab_0003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739724858813</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1739810006822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739810006822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
     <MESSAGE value="commit Lab 0002" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Lab 0002" />
+    <MESSAGE value="commit Lab 0002 modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Lab 0002 modification" />
   </component>
 </project>
