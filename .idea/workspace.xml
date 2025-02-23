@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002 modification">
-      <change afterPath="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab_0001.executor": "Run",
-    "Python.Lab_0002.executor": "Run",
-    "Python.Lab_0003.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab_0001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -122,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739810006822</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1739811410171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739811410171</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
