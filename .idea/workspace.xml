@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002 modification" />
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002 modification">
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo4_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,26 +59,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab_0001.executor": "Run",
-    "Python.Lab_0002.executor": "Run",
-    "Python.Lab_0003.executor": "Run",
-    "Python.Lab_0004.executor": "Run",
-    "Python.Lab_0006.executor": "Run",
-    "Python.Lab_0007.executor": "Run",
-    "Python.Lab_0008.executor": "Run",
-    "Python.Lab_0009.executor": "Run",
-    "Python.Lab_0010.executor": "Run",
-    "Python.Lab_0011.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo10_List1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo2_Numeric_datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo3_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo7_StringType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo8_strip function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo9_test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0011.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Lab_0011">
-    <configuration name="Lab_0003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Demo10_List1">
+    <configuration name="Demo10_List1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb2025/17Feb2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_0008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo3_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb2025/17Feb2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0008.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_0009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo7_StringType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb2025/17Feb2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_0010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo8_strip function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb2025/17Feb2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_0011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo9_test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb2025/17Feb2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb2025/17Feb2025/Lab_0011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,18 +197,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_0011" />
-        <item itemvalue="Python.Lab_0010" />
-        <item itemvalue="Python.Lab_0009" />
-        <item itemvalue="Python.Lab_0008" />
-        <item itemvalue="Python.Lab_0003" />
+        <item itemvalue="Python.Demo10_List1" />
+        <item itemvalue="Python.Demo9_test2" />
+        <item itemvalue="Python.Demo8_strip function" />
+        <item itemvalue="Python.Demo7_StringType" />
+        <item itemvalue="Python.Demo3_Test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -274,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740335790817</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1741241592306</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741241592306</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
