@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="commit Lab 0002 modification">
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo4_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,7 +42,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2t8Bx2pJ8Ujd5x0ujPAxYtcgqMv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -79,9 +69,10 @@
     &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab_0011.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
 }</component>
   <component name="RunManager" selected="Python.Demo10_List1">
@@ -208,7 +199,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
       </set>
     </attachedChunks>
   </component>
@@ -301,8 +292,75 @@
       <option name="project" value="LOCAL" />
       <updated>1741241592306</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1755770755209</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770755209</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1755770856698</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770856698</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1755770889105</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770889105</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1755770897079</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770897079</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit Lab 0002 modification">
+      <option name="closed" value="true" />
+      <created>1755770911116</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770911116</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1755770943735</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770943735</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1755770983437</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755770983437</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Feb2025/16Feb2025/Lab_0001.py" />
@@ -310,6 +368,7 @@
     <MESSAGE value="commit2" />
     <MESSAGE value="commit Lab 0002" />
     <MESSAGE value="commit Lab 0002 modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Lab 0002 modification" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
