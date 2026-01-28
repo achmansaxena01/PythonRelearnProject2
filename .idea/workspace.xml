@@ -4,9 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo4_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo4_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +41,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -54,44 +72,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Demo1.executor": "Run",
-    "Python.Demo10_List1.executor": "Run",
-    "Python.Demo11_Tuple.executor": "Run",
-    "Python.Demo12_List to Tuple.executor": "Run",
-    "Python.Demo12_Sets.executor": "Run",
-    "Python.Demo13_Sets (1).executor": "Run",
-    "Python.Demo14_Assignment.executor": "Run",
-    "Python.Demo15_Assignment.executor": "Run",
-    "Python.Demo16_Assignment.executor": "Run",
-    "Python.Demo17.executor": "Run",
-    "Python.Demo18.executor": "Run",
-    "Python.Demo19_Dictionary.executor": "Run",
-    "Python.Demo2_Numeric_datatype.executor": "Run",
-    "Python.Demo3_Test.executor": "Run",
-    "Python.Demo7_StringType.executor": "Run",
-    "Python.Demo8_strip function.executor": "Run",
-    "Python.Demo9_test2.executor": "Run",
-    "Python.Demo_Dictionary_homework.executor": "Run",
-    "Python.Lab_0001.executor": "Run",
-    "Python.Lab_0002.executor": "Run",
-    "Python.Lab_0003.executor": "Run",
-    "Python.Lab_0004.executor": "Run",
-    "Python.Lab_0006.executor": "Run",
-    "Python.Lab_0007.executor": "Run",
-    "Python.Lab_0008.executor": "Run",
-    "Python.Lab_0009.executor": "Run",
-    "Python.Lab_0010.executor": "Run",
-    "Python.Lab_0011.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.updates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo10_List1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo11_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo12_List to Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo12_Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo13_Sets (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo14_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo15_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo16_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo19_Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo2_Numeric_datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo3_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo7_StringType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo8_strip function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo9_test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo_Dictionary_homework.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0011.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Demo_Dictionary_homework">
     <configuration name="Demo15_Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
@@ -410,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769599359611</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="changes 28 jan 2026">
+      <option name="closed" value="true" />
+      <created>1769600978792</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1769600978792</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <option name="closed" value="true" />
+      <created>1769601059163</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1769601059163</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,6 +465,8 @@
     <MESSAGE value="commit Lab 0002" />
     <MESSAGE value="commit Lab 0002 modification" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="changes 28 jan 2026" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
   </component>
 </project>
