@@ -1,0 +1,1 @@
+student_info = {'name': 'Achman', 'age':32, 'major':'Engineering'}
