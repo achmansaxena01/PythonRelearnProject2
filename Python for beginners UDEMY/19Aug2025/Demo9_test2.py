@@ -6,4 +6,3 @@ print(s)
 print(r)
 print(k)
 print(l)
-

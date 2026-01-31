@@ -10,7 +10,7 @@ print(type(c))
 print(type(d))
 print(type(e))
 
-f = 10+23j
+f = 10 + 23j
 print(f)
 print(type(f))
 
@@ -25,4 +25,3 @@ print(type(h))
 i = 0O77
 print(i)
 print(type(i))
-

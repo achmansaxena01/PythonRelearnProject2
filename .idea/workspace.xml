@@ -4,28 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026/Demo21_datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo22_ArithmeticOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo23_AssignmentOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo24_ComparisonOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo25_LogicalOperator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo3_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo4_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo4_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo5_Set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo6_Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo7_StringType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo2_Numeric_datatype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo8_strip function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/19Aug2025/Demo9_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo10_List1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/21Aug2025/Demo11_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo12_List to Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo13_Sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo14_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/24Aug2024/Demo16_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026/Demo20_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026/Demo20_datatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo18_BytesAndBytesarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,46 +72,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo10_List1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo11_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo12_List to Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo12_Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo13_Sets (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo14_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo15_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo16_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo19_Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo2_Numeric_datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo3_Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo7_StringType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo8_strip function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo9_test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo_Dictionary_homework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0011.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Demo1.executor": "Run",
+    "Python.Demo10_List1.executor": "Run",
+    "Python.Demo11_Tuple.executor": "Run",
+    "Python.Demo12_List to Tuple.executor": "Run",
+    "Python.Demo12_Sets.executor": "Run",
+    "Python.Demo13_Sets (1).executor": "Run",
+    "Python.Demo14_Assignment.executor": "Run",
+    "Python.Demo15_Assignment.executor": "Run",
+    "Python.Demo16_Assignment.executor": "Run",
+    "Python.Demo17.executor": "Run",
+    "Python.Demo18.executor": "Run",
+    "Python.Demo19_Dictionary.executor": "Run",
+    "Python.Demo20_datatypes.executor": "Run",
+    "Python.Demo21_datastructures.executor": "Run",
+    "Python.Demo22_ArithmeticOperators.executor": "Run",
+    "Python.Demo23_AssignmentOperator.executor": "Run",
+    "Python.Demo24_ComparisonOperator.executor": "Run",
+    "Python.Demo25_LogicalOperator.executor": "Run",
+    "Python.Demo2_Numeric_datatype.executor": "Run",
+    "Python.Demo3_Test.executor": "Run",
+    "Python.Demo7_StringType.executor": "Run",
+    "Python.Demo8_strip function.executor": "Run",
+    "Python.Demo9_test2.executor": "Run",
+    "Python.Demo_Dictionary_homework (1).executor": "Run",
+    "Python.Demo_Dictionary_homework.executor": "Run",
+    "Python.Lab_0001.executor": "Run",
+    "Python.Lab_0002.executor": "Run",
+    "Python.Lab_0003.executor": "Run",
+    "Python.Lab_0004.executor": "Run",
+    "Python.Lab_0006.executor": "Run",
+    "Python.Lab_0007.executor": "Run",
+    "Python.Lab_0008.executor": "Run",
+    "Python.Lab_0009.executor": "Run",
+    "Python.Lab_0010.executor": "Run",
+    "Python.Lab_0011.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
-  <component name="RunManager" selected="Python.Demo_Dictionary_homework">
-    <configuration name="Demo15_Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0033\PycharmProjects\PythonRelearnProject2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Demo25_LogicalOperator">
+    <configuration name="Demo21_datastructures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/24Aug2024/Demo15_Assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026/Demo21_datastructures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo22_ArithmeticOperators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo22_ArithmeticOperators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo18_BytesAndBytesarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo23_AssignmentOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\0033\PycharmProjects\PythonRelearnProject2\Aug2025\Python for beginners UDEMY\29Aug2025\Demo18_BytesAndBytesarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo23_AssignmentOperator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo19_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo24_ComparisonOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,12 +201,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo19_Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo24_ComparisonOperator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo_Dictionary_homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo25_LogicalOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,12 +224,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo25_LogicalOperator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Demo_Dictionary_homework" />
-        <item itemvalue="Python.Demo19_Dictionary" />
-        <item itemvalue="Python.Demo15_Assignment" />
-        <item itemvalue="Python.Demo18_BytesAndBytesarray" />
-        <item itemvalue="Python.Demo17" />
+        <item itemvalue="Python.Demo25_LogicalOperator" />
+        <item itemvalue="Python.Demo24_ComparisonOperator" />
+        <item itemvalue="Python.Demo23_AssignmentOperator" />
+        <item itemvalue="Python.Demo21_datastructures" />
+        <item itemvalue="Python.Demo22_ArithmeticOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +456,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769601059163</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <option name="closed" value="true" />
+      <created>1769602444643</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1769602444643</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <option name="closed" value="true" />
+      <created>1769602518716</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1769602518716</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +480,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -467,6 +501,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="changes 28 jan 2026" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Aug2025/Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
   </component>
 </project>

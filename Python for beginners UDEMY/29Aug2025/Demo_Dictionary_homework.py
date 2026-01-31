@@ -13,4 +13,3 @@ print(student_info)
 
 del student_info['major']
 print(student_info)
-

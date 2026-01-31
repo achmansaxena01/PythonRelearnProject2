@@ -6,8 +6,8 @@ print(lst2)
 # we can do indexing , slicing and other functions on this too.
 
 print(lst2[3])  # to print element present at that value
-print(lst2[2:5])    #to trim the list from to
-print(lst2 * 3) # to print the same list multiple times
+print(lst2[2:5])  # to trim the list from to
+print(lst2 * 3)  # to print the same list multiple times
 lst1.append(56.78)  # to append the list
 print(lst1)
 lst2.remove(10)  # remove by value

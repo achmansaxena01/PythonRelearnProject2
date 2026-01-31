@@ -21,9 +21,8 @@ print(s.lstrip())  # to remove leading bank spaces
 print(s.rstrip())  # to remove trailing bank spaces
 print(s.find("awe", 0, len(s)))  # to fins a substring in the given string
 print(s.count("a"))  # to counts occurrence of a
-print(s.replace("awesome", "super"))    # to replace a part of string
+print(s.replace("awesome", "super"))  # to replace a part of string
 
 print(s.upper())
 print(s.lower())
 print(s.title())
-
