@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo31_GrocerySystem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo30_InputFun3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo30_InputFun3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo27_Printfun.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo27_Printfun.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +80,7 @@
     "Python.Demo29_InputFun2.executor": "Run",
     "Python.Demo2_Numeric_datatype.executor": "Run",
     "Python.Demo30_InputFun3.executor": "Run",
+    "Python.Demo31_GrocerySystem.executor": "Run",
     "Python.Demo3_Test.executor": "Run",
     "Python.Demo7_StringType.executor": "Run",
     "Python.Demo8_strip function.executor": "Run",
@@ -108,30 +110,7 @@
       <recent name="C:\Users\0033\PycharmProjects\PythonRelearnProject2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Demo30_InputFun3">
-    <configuration name="Demo26_OperatorsBMI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonRelearnProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo26_OperatorsBMI.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Demo27_Printfun">
     <configuration name="Demo27_Printfun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
@@ -224,13 +203,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Demo31_GrocerySystem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRelearnProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo31_GrocerySystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Demo27_Printfun" />
+        <item itemvalue="Python.Demo31_GrocerySystem" />
         <item itemvalue="Python.Demo30_InputFun3" />
         <item itemvalue="Python.Demo29_InputFun2" />
         <item itemvalue="Python.Demo28_InputFun" />
-        <item itemvalue="Python.Demo27_Printfun" />
-        <item itemvalue="Python.Demo26_OperatorsBMI" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770099355470</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <option name="closed" value="true" />
+      <created>1770099836262</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1770099836262</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
