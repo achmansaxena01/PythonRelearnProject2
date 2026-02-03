@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py" />
+    <list default="true" id="6d2c915d-8756-47e6-a629-da98a29e514d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo27_Printfun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo28_InputFun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo29_InputFun2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo30_InputFun3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,127 +56,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo10_List1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo11_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo12_List to Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo12_Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo13_Sets (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo14_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo15_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo16_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo19_Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo20_datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo21_datastructures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo22_ArithmeticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo23_AssignmentOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo24_ComparisonOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo25_LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo26_OperatorsBMI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo2_Numeric_datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo3_Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo7_StringType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo8_strip function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo9_test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo_Dictionary_homework (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Demo_Dictionary_homework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0011.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Demo1.executor": "Run",
+    "Python.Demo10_List1.executor": "Run",
+    "Python.Demo11_Tuple.executor": "Run",
+    "Python.Demo12_List to Tuple.executor": "Run",
+    "Python.Demo12_Sets.executor": "Run",
+    "Python.Demo13_Sets (1).executor": "Run",
+    "Python.Demo14_Assignment.executor": "Run",
+    "Python.Demo15_Assignment.executor": "Run",
+    "Python.Demo16_Assignment.executor": "Run",
+    "Python.Demo17.executor": "Run",
+    "Python.Demo18.executor": "Run",
+    "Python.Demo19_Dictionary.executor": "Run",
+    "Python.Demo20_datatypes.executor": "Run",
+    "Python.Demo21_datastructures.executor": "Run",
+    "Python.Demo22_ArithmeticOperators.executor": "Run",
+    "Python.Demo23_AssignmentOperator.executor": "Run",
+    "Python.Demo24_ComparisonOperator.executor": "Run",
+    "Python.Demo25_LogicalOperator.executor": "Run",
+    "Python.Demo26_OperatorsBMI.executor": "Run",
+    "Python.Demo27_Printfun.executor": "Run",
+    "Python.Demo28_InputFun.executor": "Run",
+    "Python.Demo29_InputFun2.executor": "Run",
+    "Python.Demo2_Numeric_datatype.executor": "Run",
+    "Python.Demo3_Test.executor": "Run",
+    "Python.Demo7_StringType.executor": "Run",
+    "Python.Demo8_strip function.executor": "Run",
+    "Python.Demo9_test2.executor": "Run",
+    "Python.Demo_Dictionary_homework (1).executor": "Run",
+    "Python.Demo_Dictionary_homework.executor": "Run",
+    "Python.Lab_0001.executor": "Run",
+    "Python.Lab_0002.executor": "Run",
+    "Python.Lab_0003.executor": "Run",
+    "Python.Lab_0004.executor": "Run",
+    "Python.Lab_0006.executor": "Run",
+    "Python.Lab_0007.executor": "Run",
+    "Python.Lab_0008.executor": "Run",
+    "Python.Lab_0009.executor": "Run",
+    "Python.Lab_0010.executor": "Run",
+    "Python.Lab_0011.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\0033\PycharmProjects\PythonRelearnProject2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Demo26_OperatorsBMI">
-    <configuration name="Demo21_datastructures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonRelearnProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/28Jan2026/Demo21_datastructures.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Demo23_AssignmentOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonRelearnProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo23_AssignmentOperator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Demo24_ComparisonOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonRelearnProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/31Jan2026/Demo24_ComparisonOperator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Demo29_InputFun2">
     <configuration name="Demo25_LogicalOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonRelearnProject2" />
       <option name="ENV_FILES" value="" />
@@ -217,13 +157,82 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Demo27_Printfun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRelearnProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo27_Printfun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo28_InputFun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRelearnProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo28_InputFun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo29_InputFun2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRelearnProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python for beginners UDEMY/1Feb2026/Demo29_InputFun2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Demo29_InputFun2" />
+        <item itemvalue="Python.Demo28_InputFun" />
+        <item itemvalue="Python.Demo27_Printfun" />
         <item itemvalue="Python.Demo26_OperatorsBMI" />
         <item itemvalue="Python.Demo25_LogicalOperator" />
-        <item itemvalue="Python.Demo24_ComparisonOperator" />
-        <item itemvalue="Python.Demo23_AssignmentOperator" />
-        <item itemvalue="Python.Demo21_datastructures" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769885297610</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Python for beginners UDEMY/29Aug2025/Demo_Dictionary_homework.py">
+      <option name="closed" value="true" />
+      <created>1769885402616</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1769885402616</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
