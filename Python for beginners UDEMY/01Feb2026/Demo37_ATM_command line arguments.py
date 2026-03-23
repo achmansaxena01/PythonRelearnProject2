@@ -6,7 +6,7 @@ lst = sys.argv
 
 if len(sys.argv) < 2:
     print("Usage: python atm.py <operation> [amount]")
-    print("Operations: 1=Check Balance, 2=Withdraw, 3=Deposit Cash, 4=Deposit Check")
+    print("Operations: \n 1=Check Balance,\n 2=Withdraw,\n 3=Deposit Cash,\n 4=Deposit Check")
     sys.exit(1)
 
 # First argument = operation
