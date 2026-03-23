@@ -1,4 +1,4 @@
 import sys
 lst = sys.argv
 
-print("Product is : ", lst[1]*lst[2])
+print("Product is : ", int(lst[1])*int(lst[2]))
